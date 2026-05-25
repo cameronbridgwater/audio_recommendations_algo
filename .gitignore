@@ -1,3 +1,2 @@
-bank_transactions.csv
-cleaned_all_types_bank_transactions.csv
-cleaned_only_fraud_types_bank_transactions.csv
+recs.csv
+train.csv
