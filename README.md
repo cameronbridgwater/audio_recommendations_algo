@@ -1,7 +1,7 @@
 # 🎵 Audio Recommendation with Lyrical Clusters
 
-Analyzes song lyrics and metadata to discover **theme-based clusters** and recommend tracks by mood instead of just genre.  
-**Core idea: use unsupervised clustering on lyrical topic scores to build a simple recommendation engine.** 
+Analyzes song lyrics and metadata to discover theme-based clusters and recommend tracks by mood instead of just genre.
+The goal is to move beyond simple genre tags and recommend songs based on what they’re actually about—life, family, violence, sadness—using unsupervised clustering on lyrics-derived topic scores.
 
 ---
 
